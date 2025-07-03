@@ -1,4 +1,4 @@
-name: 'Hello World'
+name: 'Hello World Composite by Eusebio Olvera'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
