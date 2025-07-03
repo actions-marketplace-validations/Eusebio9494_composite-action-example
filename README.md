@@ -16,6 +16,6 @@ Generated random number
 
 ## Example usage
 
-uses: Eusebio9494/composite-action-example@v1.3
+uses: Eusebio9494/composite-action-example@v1.4
 with:
   who-to-greet: 'Mona the Octocat'
