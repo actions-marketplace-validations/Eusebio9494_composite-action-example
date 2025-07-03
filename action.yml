@@ -32,4 +32,6 @@ runs:
     - name: Run goodbye.sh
       run: goodbye.sh
       shell: bash
-
+branding:
+  icon: 'message-square'
+  color: 'blue'
